@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Healthy Snacks</h1>
+        <p>A healthy snack e-commerce site.</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
